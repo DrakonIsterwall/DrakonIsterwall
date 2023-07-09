@@ -14,4 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🔭 I’m currently working on my Carrer in the Cyber Sec Business, trying to get some Certs and studiyng Cyber Sec Bachelor
+
+🌱 I’m currently learning a lot of different Stuff in CyberSec like TryHackme,Hackabox,Github (mainly looking through repos and trying to find something that suits me)
+
 <img src="https://tryhackme-badges.s3.amazonaws.com/DrakonIsterwall.png" alt="TryHackMe">
+<script src="https://tryhackme.com/badge/2047802"></script>
