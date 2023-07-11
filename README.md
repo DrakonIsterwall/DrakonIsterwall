@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🔭 I’m currently working on my carrer in the Cyber Sec Business and studying Cyber Sec Bachelor
+🔭 I’m currently working on my carrer in the Cyber Sec Business and studying Cyber Sec Bachelor, automate to get the tryhackme bagdes with a 24-48 hour refresh
 
 🌱 I’m currently learning a lot of different stuff in CyberSec like TryHackme,Github (mainly looking through repos and trying to find something that suits me)
 
-📫 Im planning to add in future some more learning site to my schedule like HackaBox , then topics like Bug Bounty Hunting and more
+📫 Im planning to add in future some more learning site to my schedule like HackaBox , then topics like Bug Bounty Hunting and more, buying some Linux and other Basic Books
 
 ⚡ Gonna try to update this README as much as i can :) 
 
