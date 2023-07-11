@@ -24,3 +24,4 @@ Here are some ideas to get you started:
 ⚡ Gonna try to update this README as much as i can :) 
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/DrakonIsterwall.png" alt="TryHackMe">
+<script src="https://tryhackme.com/badge/2047802">
