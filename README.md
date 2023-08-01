@@ -24,6 +24,6 @@ Here are some ideas to get you started:
    
 ⚡ Gonna try to update this README as much as i can :) <br>      Learned that i can insert pictures just with Ctrl C/V , sometimes it is easier as i thought 
 
-🤔 I’m looking for help with buying a IP Block /24-26 and how to set them up in a Layer 3 Switch so i can have multiple IP´s i can use in my Datacenter
+🤔 I’m looking for help with buying a IP Block /24-26 and how to set them up in a Layer 3 Switch so i can have multiple IP´s i can use in my <br>       Datacenter
 
 ![DrakonIsterwall badge](https://github.com/DrakonIsterwall/DrakonIsterwall/assets/117237001/6057915c-b47c-416f-a215-182923a38431) 
