@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 📫 Im planning to add in future some more interesting things into my daily activities like Bug Bounty Hunting and more, buying some         Linux and other Basic Books
    
-⚡ Gonna try to update this README as much as i can :)      Learned that i can insert pictures with Ctrl C/V , sometimes it is easier as you think
+⚡ Gonna try to update this README as much as i can :) Learned that i can insert pictures with Ctrl C/V , sometimes it is easier as you think
 
 🤔 I’m looking for help with buying a IP Block /24-26 and how to set them up in a Layer 3 Switch/ or similiar Device so i can have multiple IP´s i       can use in my Data Center
 
