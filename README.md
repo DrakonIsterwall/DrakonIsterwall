@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 🔭 I’m currently working on my carrer in the Cyber Sec Business and studying Cyber Sec Bachelor
 
 🌱 I’m currently learning a lot of different stuff in CyberSec like TryHackme,started with HacktheBox ,Github.Mainly looking through
-    repos and trying to find something that suits me,rented some different VPS to improve in Linux terminal and Docker 
+      repos and trying to find something that suits me,rented some different VPS to improve in Linux terminal and Docker 
 
 📫 Im planning to add in future some more interesting things into my daily activities like Bug Bounty Hunting and more, buying some         Linux and other Basic Books
    
