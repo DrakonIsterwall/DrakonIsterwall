@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 📫 Im planning to add in future some more interesting things into my daily activities like Bug Bounty Hunting and more, buying some Linux and other Basic Books.
    
-⚡ Gonna try to update this README as much as i can :) Added a TryHackMe reopo and gonna add my finished rooms over time how i solved them.
+⚡ Gonna try to update this README as much as i can :) Added a TryHackMe repo and gonna add my finished rooms over time, how i solved them.
 
 🤔 I’m looking for help with buying an IP Block /24-26 and how to set them up in a Layer 3 Switch/ or similiar Device so i can have multiple IP´s i can use in my Data Center.
 
