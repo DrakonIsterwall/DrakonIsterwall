@@ -25,6 +25,8 @@ Here are some ideas to get you started:
 
 🤔 I’m looking for help with buying an IP Block /24-26 and how to set them up in a Layer 3 Switch/ or similiar Device so i can have multiple IP´s i can use in my Data Center.
 
+If you wanna support my Journey you can buy me a coffee,because everyone know you need a lot of coffee for IT stuff :).
 
+https://buymeacoffee.com/drakonisterwall
 
 
