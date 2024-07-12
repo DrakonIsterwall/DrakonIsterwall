@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🔭 I’m currently working on my carrer in the cyber sec business and studying cyber sec bachelor.Writing TryHackme writeups for a summary for myself and for everyone interested
-   in Tryhackme.
+🔭 I’m currently working on my carrer in the cyber sec business and studying for a bachelor in cyber sec.Writing TryHackme writeups for a summary for myself and for everyone interested in Tryhackme.
 
 🌱 I’m currently learning a lot of different stuff in CyberSec like TryHackme,looking at different repos.Rented some different VPS to improve in Linux terminal and Docker.
    
