@@ -32,4 +32,5 @@ https://buymeacoffee.com/drakonisterwall
 My Tryhackme Profile <br>
 https://tryhackme.com/p/DrakonIsterwall
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/DrakonIsterwall.png" alt="TryHackMe">
+![07122024](https://github.com/user-attachments/assets/376e1e7b-d92f-4561-a604-755b832402c5)
+
