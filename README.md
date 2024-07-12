@@ -15,22 +15,23 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🔭 I’m currently working on my carrer in the cyber sec business and studying cyber sec bachelor.
+🔭 I’m currently working on my carrer in the cyber sec business and studying cyber sec bachelor.Writing TryHackme writeups for a summary for myself and for everyone interested
+   in Tryhackme.
 
-🌱 I’m currently learning a lot of different stuff in CyberSec like TryHackme,started with HacktheBox(more on TryHackMe) ,Github.Mainly looking through repos and trying to find something that suits me,rented some different VPS to improve in Linux terminal and Docker.
+🌱 I’m currently learning a lot of different stuff in CyberSec like TryHackme,looking at different repos.Rented some different VPS to improve in Linux terminal and Docker.
+   
 
-📫 Im planning to add in future some more interesting things into my daily activities like Bug Bounty Hunting and more, buying some Linux and other Basic Books,writing write ups for TryHackMe or python course.
+📫 Im planning to add in future some more interesting things into my daily activities like Bug Bounty Hunting and more, buying some Linux and other Basic Books.
    
 ⚡ Gonna try to update this README as much as i can :) Added a TryHackMe repo and gonna add my finished rooms over time, how i solved them.
 
-🤔 I’m looking for help with buying an IP Block /24-26 and how to set them up in a Layer 3 Switch/ or similiar Device so i can have multiple IP´s i can use in my Data Center.
-
-If you wanna support my journey you can buy me a coffee,because everyone knows you need a lot of coffee for IT stuff :).
+☕ If you wanna support my journey you can buy me a coffee,because everyone knows you need a lot of coffee for IT stuff :).
 
 https://buymeacoffee.com/drakonisterwall
 
 My Tryhackme Profile <br>
 https://tryhackme.com/p/DrakonIsterwall
 
+Updating this every 1-2 weeks
 ![07122024](https://github.com/user-attachments/assets/376e1e7b-d92f-4561-a604-755b832402c5)
 
