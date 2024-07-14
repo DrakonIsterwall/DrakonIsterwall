@@ -32,7 +32,8 @@ My Tryhackme Profile <br>
 https://tryhackme.com/p/DrakonIsterwall
 
 Updating this every 1-2 weeks<br>
-![07122024](https://github.com/user-attachments/assets/376e1e7b-d92f-4561-a604-755b832402c5)
+![07152024](https://github.com/user-attachments/assets/1d1ce281-925b-4fe2-b650-b6429ffab664)
+
 
 
 
